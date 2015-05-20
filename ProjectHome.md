@@ -1,0 +1,1 @@
+## Project Has Moved To [GitHub](https://github.com/Flowdalic/asmack) (2013-02-07) ##
